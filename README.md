@@ -1,5 +1,5 @@
 # Datastore-Management
-Nest Logo
+[Nest Logo](https://opencollective.com/nest#sponsor)
 
 A progressive Node.js framework for building efficient and scalable server-side applications.
 
