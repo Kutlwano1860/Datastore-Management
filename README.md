@@ -4,8 +4,8 @@ A progressive Node.js framework for building efficient and scalable server-side 
 
 NPM Version Package License NPM Downloads CircleCI Coverage Discord Backers on Open Collective Sponsors on Open Collective Donate us Support us Follow us on Twitter
 
-Description
-Nest framework TypeScript starter repository.
+# Description
+[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
 # Project setup
 
