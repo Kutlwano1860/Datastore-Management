@@ -11,24 +11,24 @@ NPM Version Package License NPM Downloads CircleCI Coverage Discord Backers on O
 $ npm install
 # Compile and run the project
 
-# development
+ development
 $ npm run start
 
-# watch mode
+ watch mode
 $ npm run start:dev
 
-# production mode
+ production mode
 $ npm run start:prod
 
 # Run tests
 
-# unit tests
+ unit tests
 $ npm run test
 
-# e2e tests
+ e2e tests
 $ npm run test:e2e
 
-# test coverage
+ test coverage
 $ npm run test:cov
 
 # Resources
