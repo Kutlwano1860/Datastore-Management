@@ -1,6 +1,6 @@
-# Data Store management
+Nest Logo
 
-A progressive Node.js framework for building efficient and scalable server-side applications.
+A progressive [Node.js](https://nodejs.org/en) framework for building efficient and scalable server-side applications.
 
 NPM Version Package License NPM Downloads CircleCI Coverage Discord Backers on Open Collective Sponsors on Open Collective Donate us Support us Follow us on Twitter
 
@@ -10,7 +10,8 @@ NPM Version Package License NPM Downloads CircleCI Coverage Discord Backers on O
 # Project setup
 
 $ npm install
-Compile and run the project
+# Compile and run the project
+
 # development
 $ npm run start
 
@@ -28,22 +29,23 @@ $ npm run test:e2e
 
 # test coverage
 $ npm run test:cov
-Resources
+
+# Resources
 Check out a few resources that may come in handy when working with NestJS:
 
-Visit the NestJS Documentation to learn more about the framework.
-For questions and support, please visit our Discord channel.
-To dive deeper and get more hands-on experience, check out our official video courses.
-Visualize your application graph and interact with the NestJS application in real-time using NestJS Devtools.
-Need help with your project (part-time to full-time)? Check out our official enterprise support.
-To stay in the loop and get updates, follow us on X and LinkedIn.
-Looking for a job, or have a job to offer? Check out our official Jobs board.
-Support
-Nest is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please read more here.
+Visit the [NestJS Documentation](https://docs.nestjs.com/) to learn more about the framework.
+For questions and support, please visit our[ Discord channel](https://discord.com/invite/G7Qnnhy).
+To dive deeper and get more hands-on experience, check out our official video[ courses](https://courses.nestjs.com/).
+Visualize your application graph and interact with the NestJS application in real-time using [NestJS Devtools](https://devtools.nestjs.com/).
+Need help with your project (part-time to full-time)? Check out our official [enterprise support](https://enterprise.nestjs.com/).
 
-Stay in touch
+
+# Support
+Nest is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](https://docs.nestjs.com/support).
+
+# Stay in touch
 Author - Kamil Myśliwiec
 Website - https://nestjs.com
 Twitter - @nestframework
-License
+# License
 Nest is MIT licensed.
