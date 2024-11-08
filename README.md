@@ -1,5 +1,4 @@
 # Datastore-Management
-[Nest Logo](https://opencollective.com/nest#sponsor)
 
 A progressive Node.js framework for building efficient and scalable server-side applications.
 
@@ -9,8 +8,8 @@ Description
 ===========
 Nest framework TypeScript starter repository.
 
-Project setup
-==============
+# Project setup
+
 $ npm install
 Compile and run the project
 # development
