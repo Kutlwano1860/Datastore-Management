@@ -1,4 +1,4 @@
-Nest Logo
+[Nest Logo](https://nestjs.com/)
 
 A progressive [Node.js](https://nodejs.org/en) framework for building efficient and scalable server-side applications.
 
