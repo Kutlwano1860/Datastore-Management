@@ -1,4 +1,4 @@
-Nest Logo
+# Data Store management
 
 A progressive Node.js framework for building efficient and scalable server-side applications.
 
@@ -7,7 +7,8 @@ NPM Version Package License NPM Downloads CircleCI Coverage Discord Backers on O
 Description
 Nest framework TypeScript starter repository.
 
-Project setup
+# Project setup
+
 $ npm install
 Compile and run the project
 # development
